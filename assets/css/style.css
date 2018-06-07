@@ -1,0 +1,42 @@
+body{
+    position: relative;
+}
+header{
+    height: 100px;
+    width: 100%;
+}
+h1{
+    display: inline;
+}
+ul{
+    float: right;
+    line-height: 20px;
+}
+li{
+    display: inline;
+}
+.container{
+    width: 960px;
+    height: 960px;
+    padding: 20px;
+    margin: 0 auto;
+}
+footer{
+    text-align: center;
+    height: 50px;
+    width: 100%;
+    border-top: 10px;
+    border-top-color: #4aaaa5;
+    background: #666666;
+    position: fixed;
+    bottom: 0;
+}
+.profile-picture{
+    display: inline;
+}
+h2{
+    display: inline;
+}
+p{
+    display: inline;
+}
